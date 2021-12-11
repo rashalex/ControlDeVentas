@@ -1,0 +1,10 @@
+C:\Users\HP\source\repos\ControlDeVentas\ControlDeVentas\bin\Debug\ControlDeVentas.exe.config
+C:\Users\HP\source\repos\ControlDeVentas\ControlDeVentas\bin\Debug\ControlDeVentas.exe
+C:\Users\HP\source\repos\ControlDeVentas\ControlDeVentas\bin\Debug\ControlDeVentas.pdb
+C:\Users\HP\source\repos\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.LOGIN.resources
+C:\Users\HP\source\repos\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.Properties.Resources.resources
+C:\Users\HP\source\repos\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.exe
+C:\Users\HP\source\repos\ControlDeVentas\ControlDeVentas\obj\Debug\ControlDeVentas.pdb

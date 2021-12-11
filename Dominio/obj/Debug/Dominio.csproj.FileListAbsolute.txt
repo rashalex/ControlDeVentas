@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\ControlDeVentas\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ControlDeVentas\Dominio\bin\Debug\Dominio.dll
+C:\Users\HP\source\repos\ControlDeVentas\Dominio\bin\Debug\Dominio.pdb
+C:\Users\HP\source\repos\ControlDeVentas\Dominio\bin\Debug\AccesoDatos.dll
+C:\Users\HP\source\repos\ControlDeVentas\Dominio\bin\Debug\Common.dll
+C:\Users\HP\source\repos\ControlDeVentas\Dominio\bin\Debug\AccesoDatos.pdb
+C:\Users\HP\source\repos\ControlDeVentas\Dominio\bin\Debug\Common.pdb
+C:\Users\HP\source\repos\ControlDeVentas\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ControlDeVentas\Dominio\obj\Debug\Dominio.dll
+C:\Users\HP\source\repos\ControlDeVentas\Dominio\obj\Debug\Dominio.pdb
+C:\Users\HP\source\repos\ControlDeVentas\Dominio\obj\Debug\Dominio.csproj.CopyComplete

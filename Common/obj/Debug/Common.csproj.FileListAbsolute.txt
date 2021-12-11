@@ -1,0 +1,6 @@
+C:\Users\HP\source\repos\ControlDeVentas\Common\bin\Debug\Common.dll
+C:\Users\HP\source\repos\ControlDeVentas\Common\bin\Debug\Common.pdb
+C:\Users\HP\source\repos\ControlDeVentas\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ControlDeVentas\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ControlDeVentas\Common\obj\Debug\Common.dll
+C:\Users\HP\source\repos\ControlDeVentas\Common\obj\Debug\Common.pdb
